@@ -1,1 +1,5 @@
 # openGL-egg-catching-game-
+
+This is an Egg catching game made with OpenGL. The egg catching game has three birds that drop eggs randomly and a basket. The birds go on laying eggs and user must catch them using the basket. It will be very simple to catch the egg. Use S / s to start the game or else right click the mouse button to popup menu and then click on 'start the game' menu to start. According to the game birds start laying eggs at a certain speed initially.  User is required to catch the eggs by moving the basket with the mouse button . The Score increases by catching eggs. The level changes automatically when user scores a mark set for a given level. As the level goes on increasing the speed of the eggs dropping increases continuously. There are a total of 4 levels. The game stops automatically if the player fails to collect more than 10 eggs or use Q / q from keyboard to quit the game or click the right mouse button to popup menu and then click 'Quit'.
+
+<img width="219" alt="image" src="https://user-images.githubusercontent.com/111454531/236433937-d86eff73-f3b5-477a-b152-0b13e29c0635.png">
